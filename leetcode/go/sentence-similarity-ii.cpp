@@ -167,8 +167,11 @@ int main() {
 	return 0;
 }
 
-
-
+/*
+https://leetcode.com/problems/sentence-similarity-ii/submissions/
+Runtime: 476 ms, faster than 13.30% of C++ online submissions for Sentence Similarity II.
+Memory Usage: 107.8 MB, less than 33.33% of C++ online submissions for Sentence Similarity II.
+*/
 
 /*
  $> g++ -g sample.cpp -o sample.out
