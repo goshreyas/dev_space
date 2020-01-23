@@ -14,6 +14,7 @@ using namespace std;
 using namespace std::chrono;
 #endif
 
+#if 0
 class Solution1 {
 public:
 	unordered_map<string, set<string>> dict;
@@ -82,7 +83,7 @@ public:
 		return true;
     }
 };
-
+#endif
 
 class Solution {
 public:
