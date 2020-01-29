@@ -1,7 +1,8 @@
 /*
  *
- *  URL: https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/
- *
+ *  URL:
+ *  https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/
+ *  https://leetcode.com/contest/weekly-contest-173/problems/filter-restaurants-by-vegan-friendly-price-and-distance/
  */
 
 #include <bits/stdc++.h>
