@@ -56,6 +56,11 @@ public:
     }
 };
 
+
+/*
+Runtime: 92 ms, faster than 74.66% of C++ online submissions for Filter Restaurants by Vegan-Friendly, Price and Distance.
+Memory Usage: 20.6 MB, less than 100.00% of C++ online submissions for Filter Restaurants by Vegan-Friendly, Price and Distance.
+*/
 class Solution {
 public:
     vector<int> filterRestaurants(vector<vector<int>>& restaurants, int veganFriendly, int maxPrice, int maxDistance) {
