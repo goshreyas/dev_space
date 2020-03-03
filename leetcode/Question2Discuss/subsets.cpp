@@ -14,6 +14,11 @@ using namespace std;
 using namespace std::chrono;
 #endif
 
+
+/*
+Runtime: 4 ms, faster than 98.19% of C++ online submissions for Subsets.
+Memory Usage: 8 MB, less than 100.00% of C++ online submissions for Subsets.
+*/
 class Solution {
 	public:
 		vector<vector<int>> subsets(vector<int>& nums) {
